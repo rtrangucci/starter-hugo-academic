@@ -35,4 +35,10 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Survey Methodology.*'
+links:
+ - name: Survey Methodology
+   url: https://www150.statcan.gc.ca/n1/pub/12-001-x/2020002/article/00003-eng.htm
+
+
+
 ---
