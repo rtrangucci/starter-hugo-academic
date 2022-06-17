@@ -14,7 +14,7 @@ tags:
 categories: []
 date: '2022-06-16'
 lastmod: 2022-06-16T16:38:51-04:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2022-06-16T20:38:51.650202Z'
 publication_types:
-- '0'
+- '3'
 abstract: ''
 publication: '*arXiv*'
 links:
