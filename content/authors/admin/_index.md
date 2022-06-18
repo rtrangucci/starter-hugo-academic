@@ -18,8 +18,9 @@ bio: My research involves designing novel statistical methods for problems in ep
 
 # Interests to show in About widget
 interests:
-  - Causal inference
+  - Causal inference for vaccine efficacy
   - Missing data
+  - Principal stratification
   - Prior influence
   - Multilevel regression and poststratification (MRP)
   - Bayesian inference
@@ -65,4 +66,4 @@ email: 'trangucc@umich.edu'
 highlight_name: true
 ---
 
-Rob is a PhD candidate in the Statistics department at the University of Michigan. His current research focuses on developing novel Bayesian statistical methodology for problems in epidemiology, and creating tools to understand how modeling assumptions impact inference. He has also done research in survey methodology. He got his Master’s in Quantitative Methods in the Social Sciences from Columbia University and his BA in Physics from Bucknell University.
+I'm a PhD candidate in the Statistics department at the University of Michigan. My research focuses on developing novel statistical methododology for problems in epidemiology and complex surveys, and creating tools to understand how priors impact posterior inferences.
