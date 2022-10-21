@@ -66,4 +66,4 @@ email: 'trangucc@umich.edu'
 highlight_name: true
 ---
 
-I'm a PhD candidate in the Statistics department at the University of Michigan. My research focuses on developing novel statistical methododology for problems in epidemiology and complex surveys, and creating tools to understand how priors impact posterior inferences.
+I'm a PhD candidate in the Statistics department at the University of Michigan. My research focuses on developing novel statistical methodology in missing data analysis and causal inference for problems in epidemiology, designing Bayesian methods for survey inference, and creating tools to quantify how priors impact posterior inferences.
