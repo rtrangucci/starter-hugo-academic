@@ -57,7 +57,7 @@ social:
     link: https://www.linkedin.com/in/rob-trangucci-3498395/
   - icon: cv
     icon_pack: ai
-    link: uploads/cv-2022.pdf
+    link: uploads/cv-2022-11.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'trangucc@umich.edu'
@@ -67,3 +67,5 @@ highlight_name: true
 ---
 
 I'm a PhD candidate in the Statistics department at the University of Michigan. My research focuses on developing novel statistical methodology in missing data analysis and causal inference for problems in epidemiology, designing Bayesian methods for survey inference, and creating tools to quantify how priors impact posterior inferences.
+
+__I'm on the academic job market this year looking for tenure-track roles in Statistics, Biostatistics, or Data Science.__
