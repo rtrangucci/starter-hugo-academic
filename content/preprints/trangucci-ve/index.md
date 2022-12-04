@@ -35,9 +35,9 @@ projects: []
 publishDate: '2022-06-16T20:38:51.650202Z'
 publication_types:
 - '0'
-abstract: 'Despite the importance of vaccine efficacy against post-infection outcomes like transmission or severe illness, when formulated as principal stratum effects, these estimands are unidentifiable, even under strong assumptions that are rarely satisfied in real-world trials. We develop a novel method to nonparametrically point identify these effects while eliminating the assumptions of monotonicity and perfect measurements of infection and post-infection outcomes. Furthermore, we show our results immediately extend to multiple treatments. The results are applicable outside of vaccine efficacy due to the generality of the results. We show that our method can be applied to a variety of clinical trial settings where vaccine efficacy against infection and a post-infection outcome can be jointly inferred. This can yield new insights from existing vaccine efficacy trial data and will aid researchers in designing new multi-arm clinical trials.'
+abstract: 'Despite the importance of vaccine efficacy against post-infection outcomes like transmission or severe illness, these estimands are unidentifiable, even under strong assumptions that are rarely satisfied in real-world trials. We develop a novel method to nonparametrically point identify these principal effects while eliminating the monotonicity assumption and allowing for measurement error. Furthermore, our results allow for multiple treatments, and are general enough to be applicable outside of vaccine efficacy. Our method relies on the fact that many vaccine trials are run across geographically disparate sites, and measure biologically-relevant categorical pretreatment covariates. We show that our method can be applied to a variety of clinical trial settings where vaccine efficacy against infection and a post-infection outcome can be jointly inferred. This can yield new insights from existing vaccine efficacy trial data and will aid researchers in designing new multi-arm clinical trials.'
 publication: '*arXiv*'
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2211.16502
+- name: pdf
+  url: uploads/Trangucci-Principal-Stratification-VE.pdf
 ---
