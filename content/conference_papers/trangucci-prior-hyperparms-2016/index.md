@@ -36,7 +36,7 @@ publishDate: '2022-06-16T20:38:51.456073Z'
 publication_types:
 - '2'
 abstract: ''
-publication: 'Practical Bayesian nonparameterics workshop - NIPS'
+publication: 'Practical Bayesian nonparameterics workshop - NeurIPS'
 links:
  - name: Paper (Google Drive)
    url: https://drive.google.com/file/d/0B3WHb3BabixAYlptTVBWUGdyVEE/view?resourcekey=0-mj7f4AZQ-UN1Rvd9NrRlHg
