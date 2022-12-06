@@ -39,5 +39,5 @@ abstract: 'Despite the importance of vaccine efficacy against post-infection out
 publication: '*arXiv*'
 links:
 - name: pdf
-  url: uploads/Trangucci-Principal-Stratification-VE.pdf
+  url: https://arxiv.org/pdf/2211.16502.pdf
 ---
