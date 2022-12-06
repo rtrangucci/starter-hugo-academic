@@ -38,6 +38,6 @@ publication_types:
 abstract: 'Despite the importance of vaccine efficacy against post-infection outcomes like transmission or severe illness, these estimands are unidentifiable, even under strong assumptions that are rarely satisfied in real-world trials. We develop a novel method to nonparametrically point identify these principal effects while eliminating the monotonicity assumption and allowing for measurement error. Furthermore, our results allow for multiple treatments, and are general enough to be applicable outside of vaccine efficacy. Our method relies on the fact that many vaccine trials are run across geographically disparate sites, and measure biologically-relevant categorical pretreatment covariates. We show that our method can be applied to a variety of clinical trial settings where vaccine efficacy against infection and a post-infection outcome can be jointly inferred. This can yield new insights from existing vaccine efficacy trial data and will aid researchers in designing new multi-arm clinical trials.'
 publication: '*arXiv*'
 links:
-- name: arXiv
-  url: https://arxiv.org/pdf/2211.16502.pdf
+- name: pdf
+  url: uploads/Trangucci-Principal-Stratification-VE.pdf
 ---
