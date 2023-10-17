@@ -6,12 +6,12 @@ title: Rob Trangucci
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Statistics
+role: Assistant Professor in Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Michigan
-    url: https://lsa.umich.edu/stats
+  - name: Oregon State University
+    url: https://stat.oregonstate.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research involves designing novel statistical methods for problems in epidemiology.
@@ -60,12 +60,12 @@ social:
     link: uploads/cv-2022-11.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'trangucc@umich.edu'
+email: 'trangucr@oregonstate.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I'm a PhD candidate in the Statistics department at the University of Michigan. My research focuses on developing novel statistical methodology in missing data analysis and causal inference for problems in epidemiology, designing Bayesian methods for survey inference, and creating tools to quantify how priors impact posterior inferences.
+My research focuses on developing novel statistical methodology in missing data analysis and causal inference for problems in epidemiology, designing Bayesian methods for survey inference, and creating tools to quantify how priors impact posterior inferences.
 
-__I'm on the academic job market this year looking for tenure-track roles in Statistics, Biostatistics, or Data Science.__
+__

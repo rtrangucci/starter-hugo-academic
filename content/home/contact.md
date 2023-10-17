@@ -25,7 +25,7 @@ content:
 #      captcha: false
 
   # Contact details (edit or remove options as required)
-  email: trangucc@umich.edu
+  email: trangucr@oregonstate.edu
 
 design:
   columns: '2'
