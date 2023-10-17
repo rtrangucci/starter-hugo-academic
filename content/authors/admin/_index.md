@@ -57,7 +57,7 @@ social:
     link: https://www.linkedin.com/in/rob-trangucci-3498395/
   - icon: cv
     icon_pack: ai
-    link: uploads/cv-2022-11.pdf
+    link: uploads/cv-2023-10.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'trangucr@oregonstate.edu'
