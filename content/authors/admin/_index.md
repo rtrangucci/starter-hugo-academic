@@ -6,7 +6,7 @@ title: Rob Trangucci
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor in Statistics
+role: Assistant Professor of Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
